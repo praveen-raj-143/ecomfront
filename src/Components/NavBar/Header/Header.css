@@ -1,0 +1,10 @@
+.header{
+    width: fit-content;
+    margin: auto;
+    color: rgb(255, 136, 0);
+}
+.cart{
+    position: absolute;
+    right: 100px;
+    top: 10px;
+}
